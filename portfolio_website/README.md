@@ -7,5 +7,6 @@
 we will create a full Personal Development Portfolio. We're going to use React and Next.js.
 
 Setup:
-- run ```npm i && npm start```
+- run ```npm i && npm run dev```
+- run ```yarn  && yarn dev```
 
