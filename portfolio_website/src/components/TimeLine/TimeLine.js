@@ -46,7 +46,11 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Hello everyone I self Achyuth Reddy while I'm studying most things in a theoretical way but I'm interested in programming web development and my dream is to become a Fullstack developer there needs to be proper guidance and a proper platform for learning. so that time in the pandemic the next wave was started and I joined the mean stack development program my first tech journey starts on 2020
+       Industry Ready Certification in Full-Stack web development,
+       In my Apprenticeship in the Nxtwave MERN stack development program Where I learned vital skills like HTML, CSS, JavaScrip, React, and different frameworks like Bootstrap,Tailwind,Animate.css and also Core Personality Skills as well that strengthened my professional.
+       I am the one who always wants to explore new technologies and have the nature to learn through practical implementation, NextWave is the one where I found it and I am very much excited with the tasks that I took on day to day basis which help me grow in an accelerated way.
+       Working as an Application Engineer Trainee, In my role as an Application Engineer in BFC, I work on Front-end Web Development using React.
+
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -15,7 +15,7 @@ export const projects = [
     image: '/images/5.jpg',
     tags: ['React', 'Hooks', 'Tailwind', 'Syncfusion'],
     source: 'https://github.com/achyuth33/React_Admin_Dashboard/tree/main',
-    visit: 'https://superb-hotteok-4b62da.netlify.app/ecommerce',
+    visit: 'https://superb-hotteok-4b62da.netlify.app/',
     id: 1,
   },
   {
@@ -39,7 +39,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 'Dec 2020', text: 'Started my journey at NxtWave', },
+  { year: 'Dec 2020', text: 'Started my journey as an aspiring MERN Stack developer at NxtWave', },
   { year: 'Nov 2021', text: 'completed Apprenticeship in Full Stack Development Trainee with MERN Specialization ', },
   { year: 'Nov 2021', text: 'Start Working as a Application Engineer at BFC', },
   { year: 'Nov 2022', text: '1+ Year Exp in Front-end ', },
